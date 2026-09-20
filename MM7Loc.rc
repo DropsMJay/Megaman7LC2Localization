@@ -1,0 +1,7 @@
+// MM7Loc.rc
+#include "resource.h"
+
+IDR_GAMETEXT_US RCDATA "GameTextUS.json"
+IDR_GAMETEXT_JP RCDATA "GameTextJP.json"
+IDR_BOSSNAMETEXT RCDATA "BossNameText.json"
+IDR_MISCTEXT RCDATA "MiscText.json"

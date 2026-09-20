@@ -1,0 +1,686 @@
+{
+  "0": {
+    "array_rva": "0x573868",
+    "text": "AND CAPCOM[NewLine]ALL STAFF[NewLine]..."
+  },
+  "1": {
+    "array_rva": "0x578790",
+    "text": "YOU ARE AS GOOD AS[NewLine]THEY SAY, MEGAMAN."
+  },
+  "2": {
+    "array_rva": "0x571978",
+    "text": "YOU BETTER TELL ME[NewLine]WHO YOU ARE?"
+  },
+  "3": {
+    "array_rva": "0x572800",
+    "text": "I'M BASS AND HE'S[NewLine]TREBLE.[NewLine]WE HAVE BEEN TRYING[NewLine]TO STOP DR. WILY[NewLine]WHILE YOU WERE GONE[NewLine]...[NewLine]I SEE NOW THAT YOU[NewLine]DON'T NEED OUR[NewLine]HELP..."
+  },
+  "4": {
+    "array_rva": "0x574728",
+    "text": "BASS"
+  },
+  "5": {
+    "array_rva": "0x5712b8",
+    "text": "DARN...[NewLine]I WAS CARELESS![NewLine]I FEEL SO STUPID TO[NewLine]HAVE BEEN DEFEATED SO[NewLine]EASILY...[NewLine]MAYBE I SHOULD GIVE UP[NewLine]AND LEAVE WILY TO YOU!"
+  },
+  "6": {
+    "array_rva": "0x577a48",
+    "text": "NO.  WE ARE A TEAM.[NewLine]DR. LIGHT WILL BE[NewLine]GLAD TO FIX YOU UP."
+  },
+  "7": {
+    "array_rva": "0x5743c8",
+    "text": "THANKS.  I'M GLAD[NewLine]THAT I HAVE A FRIEND[NewLine]LIKE YOU..."
+  },
+  "8": {
+    "array_rva": "0x5772a0",
+    "text": "IT'S BEEN A WHILE,[NewLine]MEGAMAN.  [NewLine]HERE IS A[NewLine]LITTLE INFORMATION.[NewLine]YOUR WEAPONS CAN BE[NewLine]USED TO DISCOVER[NewLine]HIDDEN AREAS.[NewLine]TRY USING THE FLAME[NewLine]WEAPON IN THE WOODS."
+  },
+  "9": {
+    "array_rva": "0x5779b0",
+    "text": "MEGAMAN, HAVE YOU[NewLine]COLLECTED THE R, U,[NewLine]S, AND H CIRCUIT[NewLine]PLATES?"
+  },
+  "10": {
+    "array_rva": "0x577ed0",
+    "text": "COLLECT ALL THE[NewLine]PLATES AND DR. LIGHT[NewLine]WILL CREATE NEW[NewLine]EQUIPMENT FOR YOU.[NewLine]GOOD LUCK, MEGAMAN![NewLine]I'LL SEE YOU LATER.[NewLine]IF YOU SURVIVE..."
+  },
+  "11": {
+    "array_rva": "0x5734d0",
+    "text": "COOL!  BUT REMEMBER,[NewLine]THE SUPER MEGAMAN[NewLine]ARMOR IS TOO BULKY[NewLine]TO ALLOW YOU TO[NewLine]SLIDE.[NewLine]GOOD LUCK, MEGAMAN![NewLine]I'LL SEE YOU LATER.[NewLine]IF YOU SURVIVE..."
+  },
+  "12": {
+    "array_rva": "0x576768",
+    "text": "SO BROTHER, YOU ARE[NewLine]NOT AS WEAK AS I[NewLine]THOUGHT.[NewLine]LET'S SEE WHICH OF[NewLine]US FATHER MADE[NewLine]STRONGER!"
+  },
+  "13": {
+    "array_rva": "0x577388",
+    "text": "MAYBE YOU ARE THE[NewLine]SUPERIOR MODEL,[NewLine]MEGAMAN.[NewLine]HERE, TAKE[NewLine]THIS WITH YOU."
+  },
+  "14": {
+    "array_rva": "0x574108",
+    "text": "THIS IS... [NewLine]YOUR[NewLine]PROTOSHIELD![NewLine]YOU CAN'T GIVE THIS[NewLine]TO ME!"
+  },
+  "15": {
+    "array_rva": "0x571268",
+    "text": "IT'S OK.  TAKE IT.[NewLine]AND...[NewLine]WATCH YOUR BACK..."
+  },
+  "16": {
+    "array_rva": "0x572738",
+    "text": "THIS IS... MEGAMAN??"
+  },
+  "17": {
+    "array_rva": "0x571de0",
+    "text": "I'M BASS AND HE'S[NewLine]TREBLE.[NewLine]WE HAVE BEEN TRYING[NewLine]TO STOP DR. WILY[NewLine]WHILE YOU WERE GONE[NewLine]...[NewLine]YOU ARE MUCH TOO[NewLine]WEAK TO BATTLE WILY.[NewLine]MAYBE YOU BETTER SIT[NewLine]THIS ONE OUT.[NewLine]LET'S GO TREBLE!"
+  },
+  "18": {
+    "array_rva": "0x578838",
+    "text": "CAN'T THIS THING GO[NewLine]ANY FASTER, AUTO??[NewLine]THE CITY IS UNDER[NewLine]ATTACK!"
+  },
+  "19": {
+    "array_rva": "0x5748d8",
+    "text": "I'LL TRY AND PUNCH[NewLine]IT UP A NOTCH!  HOLD[NewLine]ON, ROLL!"
+  },
+  "20": {
+    "array_rva": "0x573ab8",
+    "text": "I CAN'T BELIEVE WILY[NewLine]IS LOOSE AGAIN![NewLine]WON'T THIS MADMAN[NewLine]EVER STOP..."
+  },
+  "21": {
+    "array_rva": "0x5784b8",
+    "text": "HE WON'T BE LOOSE[NewLine]FOR LONG![NewLine]ONCE DR. LIGHT GIVES[NewLine]RUSH AND ME OUR NEW[NewLine]ENHANCEMENTS,[NewLine] WILY[NewLine]IS HISTORY!"
+  },
+  "22": {
+    "array_rva": "0x573be8",
+    "text": "WHOA![NewLine]  END OF THE[NewLine]LINE.[NewLine]  THE ROAD IS[NewLine]TOO UNSTABLE TO KEEP[NewLine]GOING."
+  },
+  "23": {
+    "array_rva": "0x579198",
+    "text": "YOU TWO WAIT HERE."
+  },
+  "24": {
+    "array_rva": "0x575a60",
+    "text": "MEGAMAN, TAKE THIS[NewLine]HELMET WITH YOU."
+  },
+  "25": {
+    "array_rva": "0x575b58",
+    "text": "............"
+  },
+  "26": {
+    "array_rva": "0x576e38",
+    "text": "I GUESS NOT..."
+  },
+  "27": {
+    "array_rva": "0x572308",
+    "text": "PERSONALLY, I KINDA[NewLine]LIKE THE OTHER[NewLine]ONE..."
+  },
+  "28": {
+    "array_rva": "0x576c68",
+    "text": "GOOD LUCK, MEGAMAN."
+  },
+  "29": {
+    "array_rva": "0x575940",
+    "text": "YOU GET PROTOSHIELD!![NewLine]  <DWNo.055>[NewLine]TETSUYA[NewLine]  WATADA"
+  },
+  "30": {
+    "array_rva": "0x571a38",
+    "text": "YOU ARE FAR TOO WEAK[NewLine]MEGAMAN.  WILY MAY[NewLine]FEAR YOU,[NewLine]BUT I DO NOT!"
+  },
+  "31": {
+    "array_rva": "0x576cf8",
+    "text": "ROUND 1 GOES TO YOU,[NewLine]MEGAMAN.  BUT I'LL[NewLine]BE BACK..."
+  },
+  "32": {
+    "array_rva": "0x579660",
+    "text": "AH, MY WAIT IS OVER![NewLine]THIS TIME THE MIGHTY[NewLine]MEGAMAN SHALL FALL![NewLine]TREBLE, ATTACK!!"
+  },
+  "33": {
+    "array_rva": "0x573ad8",
+    "text": "WHY...[NewLine]WHY CAN'T I DESTROY[NewLine]HIM...??"
+  },
+  "34": {
+    "array_rva": "0x573c50",
+    "text": "WELCOME TO BIG[NewLine]EDDIE'S!  I'M AUTO,[NewLine]DR. LIGHT'S NUMBER 1[NewLine]STUDENT.[NewLine]UNFORTUNATELY, I'VE[NewLine]LOST ONE OF MY BOLTS[NewLine]AND SO I HAVE A[NewLine]COUPLE OF SCREWS[NewLine]LOOSE.[NewLine]IF YOU FIND MY[NewLine]HYPERBOLT, I WOULD[NewLine]APPRECIATE IT IF YOU[NewLine]BRING IT BACK HERE.[NewLine]ANYWAY, I'LL TRY MY[NewLine]HARDEST.  I'LL MAKE[NewLine]ITEMS OUT OF ANY[NewLine]OTHER BOLTS YOU MAY[NewLine]FIND.[NewLine]SELECT THE ITEM YOU[NewLine]WANT ME TO MAKE!"
+  },
+  "35": {
+    "array_rva": "0x574798",
+    "text": "WELCOME MEGAMAN.[NewLine]I'M GLAD YOU'RE[NewLine]BACK![NewLine]SELECT THE ITEM YOU[NewLine]WANT MADE!"
+  },
+  "36": {
+    "array_rva": "0x576f18",
+    "text": "THIS IS A 1UP.[NewLine]IT GIVES YOU AN[NewLine]EXTRA LIFE."
+  },
+  "37": {
+    "array_rva": "0x578dc8",
+    "text": "THIS IS AN E CAN.[NewLine]IT FULLY CHARGES[NewLine]YOUR ENERGY METER."
+  },
+  "38": {
+    "array_rva": "0x5767c8",
+    "text": "THIS IS A W CAN.[NewLine]IT FULLY CHARGES A[NewLine]WEAPON'S ENERGY."
+  },
+  "39": {
+    "array_rva": "0x5775e8",
+    "text": "THIS IS AN S CAN.[NewLine]IT FULLY CHARGES[NewLine]YOUR ENERGY AND ALL[NewLine]OF YOUR WEAPONS."
+  },
+  "40": {
+    "array_rva": "0x573da8",
+    "text": "THIS IS BEAT'S[NewLine]WHISTLE.[NewLine]BEAT WILL COME AND[NewLine]PICK YOU UP WHEN YOU[NewLine]FALL IN A HOLE."
+  },
+  "41": {
+    "array_rva": "0x575758",
+    "text": "THIS IS THE ENERGY[NewLine]EQUALIZER.[NewLine]IT WILL CHARGE[NewLine]THE WEAPON WITH[NewLine]THE LOWEST ENERGY[NewLine]LEVEL WHEN YOU PICK[NewLine]UP A WEAPON CAPSULE."
+  },
+  "42": {
+    "array_rva": "0x5762a8",
+    "text": "THIS IS THE HYPER[NewLine]ROCKET BUSTER.[NewLine]IT ENABLES THE[NewLine]ROCKET BUSTER TO GO[NewLine]FURTHER."
+  },
+  "43": {
+    "array_rva": "0x571b08",
+    "text": "THIS IS THE RUSH[NewLine]JET.  IT TRANSFORMS[NewLine]RUSH INTO A JET."
+  },
+  "44": {
+    "array_rva": "0x575b30",
+    "text": "THIS IS THE SEARCH[NewLine]RUSH.[NewLine]IT ENABLES RUSH TO[NewLine]SCAN FOR SECRET[NewLine]PASSAGES."
+  },
+  "45": {
+    "array_rva": "0x571ea8",
+    "text": "THIS ENABLES YOU TO[NewLine]EXIT FROM A STAGE IF[NewLine]YOU HAVE ALREADY[NewLine]DEFEATED THE ROBOT[NewLine]BOSS."
+  },
+  "46": {
+    "array_rva": "0x572a58",
+    "text": "SORRY, MEGAMAN, YOU[NewLine]DON'T HAVE ENOUGH[NewLine]BOLTS."
+  },
+  "47": {
+    "array_rva": "0x574398",
+    "text": "DON'T BE GREEDY,[NewLine]MEGAMAN!  YOU CAN'T[NewLine]CARRY ANY MORE OF THAT!"
+  },
+  "48": {
+    "array_rva": "0x5797e8",
+    "text": "SO LONG, MEGAMAN!"
+  },
+  "49": {
+    "array_rva": "0x5753f8",
+    "text": "WAIT A MINUTE."
+  },
+  "50": {
+    "array_rva": "0x578700",
+    "text": "SELECT THE ITEM YOU[NewLine]WANT MADE!"
+  },
+  "51": {
+    "array_rva": "0x0",
+    "text": ""
+  },
+  "52": {
+    "array_rva": "0x575d28",
+    "text": "SO LONG, MEGAMAN!"
+  },
+  "53": {
+    "array_rva": "0x578228",
+    "text": "HEY...[NewLine]ZZZ[NewLine]Z[NewLine]ZZ[NewLine]EXIT"
+  },
+  "54": {
+    "array_rva": "0x575320",
+    "text": "THAT'S MY BOLT![NewLine]THANKS, IT FITS[NewLine]PERFECTLY."
+  },
+  "55": {
+    "array_rva": "0x579bc0",
+    "text": "NOW I CAN WORK AT[NewLine]FULL POWER![NewLine]LOOK!  A NEW ITEM[NewLine]JUST FOR YOU![NewLine]I CAN NOW MAKE ITEMS[NewLine]USING HALF THE[NewLine]NORMAL NUMBER OF[NewLine]BOLTS![NewLine]SELECT THE ITEM YOU[NewLine]WANT MADE!"
+  },
+  "56": {
+    "array_rva": "0x576798",
+    "text": "THIS ITEM IS[NewLine]SUPPOSED TO CALL[NewLine]BEAT, BUT BEAT IS[NewLine]NOT RESPONDING.  I'M[NewLine]WORRIED MEGAMAN.[NewLine]PLEASE FIND BEAT!"
+  },
+  "57": {
+    "array_rva": "0x573bb8",
+    "text": "ONLY SUPER MEGAMAN[NewLine]IS POWERFUL ENOUGH[NewLine]TO USE THIS ITEM.[NewLine]COLLECT THE R. U. S.[NewLine]AND H. PLATES FIRST,[NewLine]MEGAMAN!"
+  },
+  "58": {
+    "array_rva": "0x0",
+    "text": ""
+  },
+  "59": {
+    "array_rva": "0x573760",
+    "text": "FREEZE MAN[NewLine]  <DWNo.049>[NewLine]SHIGEAKI[NewLine]  SAKAMOTO"
+  },
+  "60": {
+    "array_rva": "0x5725f0",
+    "text": "JUNK MAN[NewLine]  <DWNo.050>[NewLine]JUN AKIBA"
+  },
+  "61": {
+    "array_rva": "0x5745f0",
+    "text": "TURBO MAN[NewLine]  <DWNo.056>[NewLine]TAKASHI KINO"
+  },
+  "62": {
+    "array_rva": "0x577a18",
+    "text": "CLOUD MAN[NewLine]  <DWNo.052>[NewLine]ISAO[NewLine]  NAKAGIRI"
+  },
+  "63": {
+    "array_rva": "0x579710",
+    "text": "SPRING MAN[NewLine]  <DWNo.053>[NewLine]AKIRA ITO"
+  },
+  "64": {
+    "array_rva": "0x576ea8",
+    "text": "SLASH MAN[NewLine]  <DWNo.054>[NewLine]YOICHI AMANO"
+  },
+  "65": {
+    "array_rva": "0x572cf0",
+    "text": "SHADE MAN[NewLine]  <DWNo.055>[NewLine]TETSUYA[NewLine]  WATADA"
+  },
+  "66": {
+    "array_rva": "0x577368",
+    "text": "BURST MAN[NewLine]   <DWNo.051>[NewLine]KEISHI[NewLine]  TSUCHIYA"
+  },
+  "67": {
+    "array_rva": "0x578250",
+    "text": "BASS[NewLine]TREBLE"
+  },
+  "68": {
+    "array_rva": "0x578338",
+    "text": "MEGA MAN 7[NewLine]PRODUCER[NewLine]PROFESSOR F"
+  },
+  "69": {
+    "array_rva": "0x578b90",
+    "text": "PLANNER[NewLine]HISAYOSHI[NewLine]R-CHU RYO[NewLine]CARDON[NewLine]MONJI[NewLine]P-TARO"
+  },
+  "70": {
+    "array_rva": "0x577bf0",
+    "text": "OBJECT[NewLine]DESIGNER[NewLine]INAFKING[NewLine]TOSHI-CHANG[NewLine]H.K[NewLine]IKKI[NewLine]X-MAN[NewLine]OKON[NewLine]MA2[NewLine]BLACK[NewLine]NOBU[NewLine]R.Y[NewLine]MIZU[NewLine]841 NAGGER[NewLine]NOTTSU MAN[NewLine]MONKEY[NewLine]MAFU[NewLine]KAJI-YAN[NewLine]2m50cm MAN[NewLine]TATSUNOKO"
+  },
+  "71": {
+    "array_rva": "0x574a60",
+    "text": "SCROLL[NewLine]DESIGNER[NewLine]M.PROST[NewLine]LOANS-R[NewLine]NATSU[NewLine]YAS[NewLine]SHIMO CHAN[NewLine]IMUYAM[NewLine]NOR[NewLine]ROMAN Y[NewLine]OKIRAN[NewLine]JUN-LI[NewLine]COSMO[NewLine]MINAKO[NewLine]T.A[NewLine]SHIZU[NewLine]HASHI[NewLine]ZIZI[NewLine]SHIGE-CHAN[NewLine]MOOTA[NewLine]G-JYAN"
+  },
+  "72": {
+    "array_rva": "0x575790",
+    "text": "SPECIAL[NewLine]DESIGNER[NewLine]HITOMI[NewLine]   YOSHIMASA[NewLine]HIROAKI[NewLine]SUGAWARA[NewLine]TOMOKO[NewLine]  TANABE[NewLine]MASATOSHI[NewLine]YAMAZAKI[NewLine]MADOKA AYABE[NewLine]MAYUMI ITO[NewLine]MIWA KIKUCHI[NewLine]MASAOMI[NewLine] SHIMONO[NewLine]MAKOTO[NewLine]OHKAWARA[NewLine]KYOSUKE[NewLine]  HARADA[NewLine]NORIYOSHI[NewLine]   TAKAHASHI[NewLine]KUNIHIRO[NewLine]  KANEDA[NewLine]HIROYOSHI[NewLine]   NAKANISHI[NewLine]KENTA[NewLine] YATSUDA[NewLine]DAISUKE[NewLine]   HANAI[NewLine]KATSUYA[NewLine]   ONOSE[NewLine]SUSUMU[NewLine]   MATSUNAGA[NewLine]SATOKO NOGI[NewLine]HIROFUMI[NewLine]YAMAUCHI[NewLine]HITOSHI[NewLine]TAKEHANA[NewLine]MIE IIDA[NewLine]TSUTOMU[NewLine]   NAGAI[NewLine]YUKA TAKEDA[NewLine]KENJI ITO[NewLine]MAIKO MIYAJI[NewLine]SAORI[NewLine] TSUBAKI[NewLine]YUSUKE[NewLine]WATANABE[NewLine]HIDETO[NewLine]   KISHIMOTO"
+  },
+  "73": {
+    "array_rva": "0x5741a8",
+    "text": "PROGRAMMER[NewLine]SABORI[NewLine]IKUTHAN[NewLine]TSUCCHIE[NewLine]SAKA[NewLine]TOSHI[NewLine]NAO"
+  },
+  "74": {
+    "array_rva": "0x575050",
+    "text": "SOUND[NewLine]   COMPOSER[NewLine]T.”ANIE”.N[NewLine]YUK[NewLine]KRSK[NewLine]V-TOMOZOH[NewLine]KAN[NewLine]APPLE Z[NewLine]MORE RICH[NewLine]NARINARI[NewLine]IPPO"
+  },
+  "75": {
+    "array_rva": "0x571bf0",
+    "text": "SPECIAL[NewLine] THANKS[NewLine]HELPER-F[NewLine]HELPER-M[NewLine]ASTRO KOKIZO[NewLine]TSUGEZO[NewLine]MANASHI[NewLine]UKABIN[NewLine]MEEKAN[NewLine]TAKEPONG[NewLine]QCHAN[NewLine]TOYOKICHI[NewLine]MAESHI[NewLine]MIYAU[NewLine]882"
+  },
+  "76": {
+    "array_rva": "0x576488",
+    "text": "YOU GET[NewLine]FREEZE[NewLine]CRACKER"
+  },
+  "77": {
+    "array_rva": "0x579c78",
+    "text": "YOU GET[NewLine]THUNDER[NewLine]BOLT"
+  },
+  "78": {
+    "array_rva": "0x5743b0",
+    "text": "YOU GET[NewLine]JUNK[NewLine]SHIELD"
+  },
+  "79": {
+    "array_rva": "0x571778",
+    "text": "YOU GET[NewLine]SCORCH[NewLine]WHEEL"
+  },
+  "80": {
+    "array_rva": "0x5765d8",
+    "text": "YOU GET[NewLine]SLASH[NewLine]CLAW"
+  },
+  "81": {
+    "array_rva": "0x579e68",
+    "text": "YOU GET[NewLine]NOISE[NewLine]CRUSH"
+  },
+  "82": {
+    "array_rva": "0x571fc8",
+    "text": "YOU GET[NewLine]DANGER[NewLine]WRAP"
+  },
+  "83": {
+    "array_rva": "0x57a7e0",
+    "text": "YOU GET[NewLine]WILD[NewLine]COIL"
+  },
+  "84": {
+    "array_rva": "0x573d30",
+    "text": "WELCOME HOME,[NewLine]MEGAMAN."
+  },
+  "85": {
+    "array_rva": "0x578a68",
+    "text": "DR. LIGHT, WHAT DO[NewLine]YOU THINK OF BASS?"
+  },
+  "86": {
+    "array_rva": "0x571e78",
+    "text": "HIS ACTIONS DON'T[NewLine]SEEM TO INDICATE A[NewLine]THREAT.[NewLine]  I DON'T[NewLine]BELIEVE HE IS OUR[NewLine]ENEMY..."
+  },
+  "87": {
+    "array_rva": "0x571c68",
+    "text": "MEGAMAN, IT'S A[NewLine]DISASTER![NewLine]WILY AND HIS ROBOTS[NewLine]ARE RAMPAGING[NewLine]THROUGH THE MIDDLE[NewLine]OF THE CITY![NewLine]GET GOING!"
+  },
+  "88": {
+    "array_rva": "0x5759e8",
+    "text": "D... [NewLine]DR. LIGHT.[NewLine]WHAT HAPPENED!?"
+  },
+  "89": {
+    "array_rva": "0x5785c0",
+    "text": "IS THAT YOU MEGAMAN?[NewLine]BASS WENT BERSERK[NewLine]AFTER I COMPLETED[NewLine]HIS REPAIRS.[NewLine]HE STOLE THE PARTS[NewLine]FOR THE NEW[NewLine]ENHANCEMENTS..."
+  },
+  "90": {
+    "array_rva": "0x5781b8",
+    "text": "BASS...??  [NewLine]I CAN'T[NewLine]BELIEVE IT..."
+  },
+  "91": {
+    "array_rva": "0x579310",
+    "text": "BELIEVE IT, MEGAMAN.[NewLine]BASS AND TREBLE ARE[NewLine]MY CREATIONS![NewLine]I KNEW THAT YOU[NewLine]WOULD BE STUPID[NewLine]ENOUGH TO TRUST HIM[NewLine]AND ALLOW HIM ACCESS[NewLine]TO THE LAB.[NewLine]NOW, BASS AND TREBLE[NewLine]WILL USE THE[NewLine]ENHANCEMENTS MEANT[NewLine]FOR YOU AND RUSH![NewLine]HAHAHAHAHAHAHAHA..."
+  },
+  "92": {
+    "array_rva": "0x575620",
+    "text": "I'LL MAKE YOU PAY[NewLine]WILY!![NewLine] DR."
+  },
+  "93": {
+    "array_rva": "0x578090",
+    "text": "THE WILD COIL[NewLine]LAUNCHES ONE COIL[NewLine]FORWARD AND ONE COIL[NewLine]BACKWARD, RIGHT?"
+  },
+  "94": {
+    "array_rva": "0x578090",
+    "text": "THE WILD COIL[NewLine]LAUNCHES ONE COIL[NewLine]FORWARD AND ONE COIL[NewLine]BACKWARD, RIGHT?"
+  },
+  "95": {
+    "array_rva": "0x578090",
+    "text": "THE WILD COIL[NewLine]LAUNCHES ONE COIL[NewLine]FORWARD AND ONE COIL[NewLine]BACKWARD, RIGHT?"
+  },
+  "96": {
+    "array_rva": "0x578090",
+    "text": "THE WILD COIL[NewLine]LAUNCHES ONE COIL[NewLine]FORWARD AND ONE COIL[NewLine]BACKWARD, RIGHT?"
+  },
+  "97": {
+    "array_rva": "0x575cc8",
+    "text": "YES, BUT REMEMBER TO[NewLine]CHARGE THE COILS TO[NewLine]MAKE THEM JUMP[NewLine]HIGHER."
+  },
+  "98": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "99": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "100": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "101": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "102": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "103": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "104": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "105": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "106": {
+    "array_rva": "0x576d98",
+    "text": "THE SCORCH WHEEL[NewLine]LAUNCHES A FLAMING[NewLine]WHEEL, RIGHT?"
+  },
+  "107": {
+    "array_rva": "0x574938",
+    "text": "YES, AND THE WHEEL[NewLine]MAY ALSO BURN THE[NewLine]THINGS IT TOUCHES."
+  },
+  "108": {
+    "array_rva": "0x571ce8",
+    "text": "THE FREEZE CRACKER[NewLine]FIRES ICE BULLETS,[NewLine]DOESN'T IT?"
+  },
+  "109": {
+    "array_rva": "0x571ce8",
+    "text": "THE FREEZE CRACKER[NewLine]FIRES ICE BULLETS,[NewLine]DOESN'T IT?"
+  },
+  "110": {
+    "array_rva": "0x571ce8",
+    "text": "THE FREEZE CRACKER[NewLine]FIRES ICE BULLETS,[NewLine]DOESN'T IT?"
+  },
+  "111": {
+    "array_rva": "0x571ce8",
+    "text": "THE FREEZE CRACKER[NewLine]FIRES ICE BULLETS,[NewLine]DOESN'T IT?"
+  },
+  "112": {
+    "array_rva": "0x57a518",
+    "text": "YES, AND THE BULLETS[NewLine]WILL SPLIT WHEN THEY[NewLine]HIT THE GROUND."
+  },
+  "113": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "114": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "115": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "116": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "117": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "118": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "119": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "120": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "121": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "122": {
+    "array_rva": "0x5785f8",
+    "text": "THE JUNK SHIELD WILL[NewLine]PROTECT THE USER[NewLine]WITH ROTATING[NewLine]SPHERES, RIGHT?"
+  },
+  "123": {
+    "array_rva": "0x579640",
+    "text": "YES, BUT THE SPHERES[NewLine]CAN ONLY ABSORB SO[NewLine]MUCH DAMAGE BEFORE[NewLine]THEY ARE DESTROYED."
+  },
+  "124": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "125": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "126": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "127": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "128": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "129": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "130": {
+    "array_rva": "0x5766a8",
+    "text": "THE DANGER WRAP[NewLine]FIRES OUT A BOMB[NewLine]ENCASED IN A BUBBLE,[NewLine]DOESN'T IT?"
+  },
+  "131": {
+    "array_rva": "0x577b08",
+    "text": "YES, BUT IT CAN ALSO[NewLine]BE USED TO ENCASE[NewLine]OTHER THINGS BESIDES[NewLine]BOMBS."
+  },
+  "132": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "133": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "134": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "135": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "136": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "137": {
+    "array_rva": "0x571a18",
+    "text": "THE THUNDER BOLT[NewLine]FIRES OUT[NewLine]ELECTRICALLY CHARGED[NewLine]SPHERES, RIGHT?"
+  },
+  "138": {
+    "array_rva": "0x579e48",
+    "text": "YES, AND IT CAN ALSO[NewLine]BE USED TO POWER[NewLine]SOME ELECTRONIC[NewLine]MACHINES."
+  },
+  "139": {
+    "array_rva": "0x571dc8",
+    "text": "THE SLASH CLAW CUTS[NewLine]THINGS APART,[NewLine]DOESN'T IT?"
+  },
+  "140": {
+    "array_rva": "0x571dc8",
+    "text": "THE SLASH CLAW CUTS[NewLine]THINGS APART,[NewLine]DOESN'T IT?"
+  },
+  "141": {
+    "array_rva": "0x571dc8",
+    "text": "THE SLASH CLAW CUTS[NewLine]THINGS APART,[NewLine]DOESN'T IT?"
+  },
+  "142": {
+    "array_rva": "0x571dc8",
+    "text": "THE SLASH CLAW CUTS[NewLine]THINGS APART,[NewLine]DOESN'T IT?"
+  },
+  "143": {
+    "array_rva": "0x578a78",
+    "text": "YES, BUT IT HAS[NewLine]LIMITED RANGE."
+  },
+  "144": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "145": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "146": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "147": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "148": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "149": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "150": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "151": {
+    "array_rva": "0x5793f8",
+    "text": "THE NOISE CRUSH[NewLine]GENERATES A POWERFUL[NewLine]SOUND WAVE, DOESN'T[NewLine]IT?"
+  },
+  "152": {
+    "array_rva": "0x577160",
+    "text": "YES, AND YOU CAN[NewLine]AMPLIFY THE WAVE BY[NewLine]ABSORBING THE[NewLine]REFLECTED WAVE WITH[NewLine]YOUR BODY."
+  },
+  "153": {
+    "array_rva": "0x578a88",
+    "text": "WHAT IS THIS??[NewLine]WILY IS ATTACKING[NewLine]THE ROBOT MUSEUM![NewLine]YOU MUST LEAVE NOW,[NewLine]MEGAMAN!"
+  },
+  "154": {
+    "array_rva": "0x571da8",
+    "text": "OK, I GIVE UP.[NewLine]SORRY ABOUT ALL THE[NewLine]TROUBLE.  I'LL GO[NewLine]QUIETLY..."
+  },
+  "155": {
+    "array_rva": "0x578e98",
+    "text": "I DON'T TRUST YOU,[NewLine]WILY! I'M GONNA DO[NewLine]WHAT I SHOULD HAVE[NewLine]DONE YEARS AGO!!"
+  },
+  "156": {
+    "array_rva": "0x573a28",
+    "text": "YOU FORGET, MEGAMAN.[NewLine]ROBOTS CANNOT HARM[NewLine]HUMANS..."
+  },
+  "157": {
+    "array_rva": "0x575d08",
+    "text": "I AM MORE THAN A[NewLine]ROBOT!!  DIE WILY!!"
+  },
+  "158": {
+    "array_rva": "0x577b38",
+    "text": "TOO LATE, MEGAMAN."
+  },
+  "159": {
+    "array_rva": "0x578eb8",
+    "text": "HE WHO HESITATES IS[NewLine]LOST!  WE SHALL[NewLine]RETURN!"
+  },
+  "160": {
+    "array_rva": "0x576648",
+    "text": "THE WORLD CHEERED MEGAMAN[NewLine]WHEN AT LONG LAST HE"
+  },
+  "161": {
+    "array_rva": "0x5716a0",
+    "text": "CAPTURED AND IMPRISONED[NewLine]DR. WILY."
+  },
+  "162": {
+    "array_rva": "0x0",
+    "text": ""
+  },
+  "163": {
+    "array_rva": "0x573378",
+    "text": "DR. WILY ALWAYS KNEW HIS[NewLine]SCHEMES MIGHT END IN"
+  },
+  "164": {
+    "array_rva": "0x5722f0",
+    "text": "FOUR ROBOTS HAD BEEN[NewLine]HIDDEN AWAY AND AFTER SIX[NewLine]MONTHS"
+  },
+  "165": {
+    "array_rva": "0x5727a0",
+    "text": "WITHOUT BEING CONTACTED[NewLine]BY DR. WILLY,[NewLine]THEY ACTIVATE AND"
+  },
+  "166": {
+    "array_rva": "0x574b38",
+    "text": "D... DOCTOR, ARE YOU[NewLine]OK?  I'LL BRING BACK[NewLine]ROLL TO TAKE CARE OF[NewLine]YOU."
+  },
+  "167": {
+    "array_rva": "0x571368",
+    "text": "NO, MEGAMAN.  WE[NewLine]HAVE NO TIME!  WILY[NewLine]IS USING THE ATTACK[NewLine]OF HIS ROBOTS TO[NewLine]COVER HIS ESCAPE...[NewLine]LOOK!!!"
+  },
+  "168": {
+    "array_rva": "0x574558",
+    "text": "YOU'VE GOT TO GO[NewLine]NOW, MEGAMAN.  [NewLine]GET[NewLine]RUSH AND FOLLOW[NewLine]WILY'S SPACESHIP!"
+  },
+  "169": {
+    "array_rva": "0x0",
+    "text": ""
+  },
+  "170": {
+    "array_rva": "0x577a38",
+    "text": "FAILURE AND HAD PLANNED[NewLine]FOR JUST SUCH AN OCCASION."
+  }
+}

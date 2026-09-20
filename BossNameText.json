@@ -1,0 +1,31 @@
+{
+  "boss_names": {
+    "0": "FREEZE MAN",
+    "1": "JUNK MAN",
+    "2": "BURST MAN",
+    "3": "CLOUD MAN",
+    "4": "SPRING MAN",
+    "5": "SLASH MAN",
+    "6": "SHADE MAN",
+    "7": "TURBO MAN"
+  },
+  "flavor_text": {
+    "0": "DON'T SLIP!",
+    "1": "FORGOTTEN FACTORY",
+    "2": "BOMB BOMBER BOMBEST",
+    "3": "WATCH YOUR STEP",
+    "4": "BOYOYON PARADISE",
+    "5": "JURASSIC JUNGLE",
+    "6": "MYSTERY! THE HORROR",
+    "7": "CHAMP OF THE ROADS"
+  },
+  "intro_en": {
+    "0": "IN THE YEAR 20XXDC",
+    "1": "BUT...",
+    "2": "BEGIN SEARCHING FOR\nTHEIR MASTER..."
+  },
+  "intro_jp": {
+    "1": "しかし...",
+    "2": "そして、数ヶ月後..."
+  }
+}

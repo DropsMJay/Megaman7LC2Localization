@@ -1,0 +1,14 @@
+# Normalize line endings: text files are stored as LF in the repository and
+# checked out with the platform's native endings.
+* text=auto
+
+# Windows-specific files that must keep CRLF on checkout.
+*.bat            text eol=crlf
+*.rc             text eol=crlf
+*.slnx           text eol=crlf
+*.vcxproj        text eol=crlf
+*.vcxproj.filters text eol=crlf
+
+# Binary files.
+*.aps binary
+*.lib binary

@@ -1,0 +1,56 @@
+{
+  "_comment": "A = Japanese build (shows the full 1987-1993 history screen at slot 15). B = US build (skips straight to the copyright screen at slot 15). Slots 14/18/19 had identical text in both original tables -- duplicated here as a starting point, edit freely.",
+
+  "A": {
+    "14": [
+      "SOUND TEST",
+      "S.E.",
+      "MUSIC"
+    ],
+    "15": [
+      "1987  ROCKMAN",
+      "1988  ROCKMAN 2",
+      "1990  ROCKMAN 3",
+      "1991  ROCKMAN 4",
+      "1992  ROCKMAN 5",
+      "1993  ROCKMAN 6",
+      "...AND"
+    ],
+    "16": [
+      "© CAPCOM CO.,LTD.1995"
+    ],
+    "18": [
+      "VERSUS MODE",
+      "PLAYER SELECT"
+    ],
+    "19": [
+      "THANK YOU FOR PLAYING!",
+      "1995"
+    ],
+    "20": [
+      "©CAPCOM/No.14155585-78236251"
+    ]
+  },
+  "B": {
+    "14": [
+      "SOUND TEST",
+      "S.E.",
+      "MUSIC"
+    ],
+    "15": [
+      "©CAPCOM CO., LTD.1995",
+      "©CAPCOM USA, INC.1995"
+    ],
+    "18": [
+      "VERSUS MODE",
+      "PLAYER SELECT"
+    ],
+    "19": [
+      "THANK YOU FOR PLAYING!",
+      "1995"
+    ],
+    "20": [
+      "©CAPCOM/No.14155585-78236251"
+    ]
+  }
+}

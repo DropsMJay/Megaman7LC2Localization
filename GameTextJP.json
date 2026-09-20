@@ -1,0 +1,1028 @@
+{
+  "0": {
+    "dest_rva": "0xe26b20",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 16, 9, 1424, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0590][AdvanceCursorLine]",
+    "text": "AND CAPCOM[NewLine]ALL STAFF[PacingTick][20][WaitFrames][FF][PacingTick][20]"
+  },
+  "1": {
+    "dest_rva": "0xe26b38",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 15, 8, 8, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ForceWait][NewLine][AdvanceCursorLine]",
+    "text": "やるな゛ロックマン！[WaitFrames][78][PacingTick][06]"
+  },
+  "2": {
+    "dest_rva": "0xe26b50",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 134, 1, 32, 15, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][86][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "えっ゛ぼくをしってるの？[NewLine]きみは だれ・・・[NewLine][NewLine][WaitFrames][78][PacingTick][06]"
+  },
+  "3": {
+    "dest_rva": "0xe26b68",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 15, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "おれは フォルテだ゛[NewLine]こいつは ゴスペル[DrawClosingMark][NewLine][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]おれたちは ワイリーの てから[NewLine]せかいを まもるために[NewLine]たたかっているんだ・・・[AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]おまえの ちからを ためさせてもらった[DrawClosingMark][NewLine]さすがだな゛ロックマン[DrawClosingMark][NewLine]いくぞ゛ゴスペル！！[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "4": {
+    "dest_rva": "0xe26b80",
+    "header_bytes": [2, 16, 3, 512, 16, 23, 10, 134, 1, 32, 15, 8, 8, 8],
+    "header_decoded": "[SetTypeSpeed][10][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][86][SetSpeaker?][20][ForceWait][NewLine][AdvanceCursorLine]",
+    "text": "・・・・[SetTypeSpeed][08]フォルテ[SetTypeSpeed][10]・・・・？[AdvanceCursorLine][WaitFrames][B4][PacingTick][06]"
+  },
+  "5": {
+    "dest_rva": "0xe26b98",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]ちいっ！ ザコあいてに ゆだんしたぜ[DrawClosingMark][NewLine]こんなところで ダメージを[NewLine]くらっちまうとはよ・・・[AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]あげくのはてに おまえなんかに[NewLine]こんな ぶざまなすがたを みられちまった[DrawClosingMark][NewLine][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]このウデじゃ オレも いんたいだ・・・[NewLine]ワイリーを たおすやくめは[NewLine]おまえに ゆずっておくぜ！[AdvanceCursorLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "6": {
+    "dest_rva": "0xe26bb0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]そんなことないよ！！[NewLine]ぼくが ライトはかせに れんらくするから[NewLine]なおしてもらって ふたりで たたかおうよ[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "7": {
+    "dest_rva": "0xe26bc8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]すまないな[DrawClosingMark][NewLine]だが゛おまえの そのやさしさが[NewLine]いのちとりに ならなきゃ いいのにな[DrawClosingMark][AdvanceCursorLine][WaitFrames][B4][PacingTick][06]"
+  },
+  "8": {
+    "dest_rva": "0xe26be0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]ひさしぶりだな゛ロックマン[DrawClosingMark][NewLine]いいことを おしえてやろう[DrawClosingMark][NewLine][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]とくしゅぶきは てきにたいして[NewLine]つかうだけじゃなく゛とくていのばしょで[NewLine]つかうと いろんなことが おきるはずだ[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "9": {
+    "dest_rva": "0xe26bf8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]ロックマン[DrawClosingMark]RUSHプレートは[NewLine]あつめているか？[NewLine][AdvanceCursorLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "10": {
+    "dest_rva": "0xe26c10",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]きっと やくにたつときが くるから゛[NewLine]かならず 4まい あつめておくんだ[DrawClosingMark][NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "11": {
+    "dest_rva": "0xe26c28",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]おや゛どうやら すべてのプレートを[NewLine]あつめたらしいな[DrawClosingMark][NewLine]だが゛けして ゆだんするなよ[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]あばよ゛ロックマン[DrawClosingMark][NewLine]おまえとは また゛どこかで [NewLine]であうかもな[DrawClosingMark][NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "12": {
+    "dest_rva": "0xe26c40",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ついに゛ここまできたか[DrawClosingMark][NewLine]ロックマン！[NewLine]おまえの ちから みせてもらうぞ！！[NewLine][IncrementCounter][WaitFrames][78][PacingTick][06][IncrementCounter]"
+  },
+  "13": {
+    "dest_rva": "0xe26c58",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ロックマン[DrawClosingMark][NewLine]おまえは おれの そうぞういじょうの[NewLine]じつりょくを もっていた[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]こいつは これからさきの たたかいで[NewLine]やくに たつだろう[DrawClosingMark][NewLine]もっていけ[SetTypeSpeed][08]・・・[NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "14": {
+    "dest_rva": "0xe26c70",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]こっ これは・・・ ブルースシールド！[NewLine]きみの だいじな たてじゃないか[DrawClosingMark][NewLine]まさか゛きみは[SetTypeSpeed][08]・・・[NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "15": {
+    "dest_rva": "0xe26c88",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]いいんだ゛もっていけ[DrawClosingMark][NewLine]それから[SetTypeSpeed][08]・・・[NewLine][SetTypeSpeed][04]やつには きをつけろ[SetTypeSpeed][08]・・・[NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "16": {
+    "dest_rva": "0xe26ca0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 15, 8, 8, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ForceWait][NewLine][AdvanceCursorLine]",
+    "text": "これが゛ロックマンだと[SetTypeSpeed][08]・・・[NewLine][WaitFrames][78][PacingTick][06]"
+  },
+  "17": {
+    "dest_rva": "0xe26cb8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 15, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "おれは フォルテだ゛[NewLine]こいつは ゴスペル[DrawClosingMark][NewLine][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]おれたちは ワイリーの てから[NewLine]せかいを まもるために[NewLine]たたかっているんだ・・・[AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]おまえの ちからを゛ためさせてもらった[DrawClosingMark][NewLine]このていどのヤツが これまで[NewLine]ちきゅうの へいわを まもっていただと゛[AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]へっ゛わらわせるぜ！！[NewLine]いくぞ゛ゴスペル！[NewLine][NewLine][WaitFrames][B4][PacingTick][06]"
+  },
+  "18": {
+    "dest_rva": "0xe26cd0",
+    "header_bytes": [2, 3, 3, 512, 16, 23, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][03][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "ライトット゛いそいで！！[NewLine][WaitFrames][14]まちが おそわれているんだ[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][04]"
+  },
+  "19": {
+    "dest_rva": "0xe26ce8",
+    "header_bytes": [2, 3, 3, 512, 16, 32, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][03][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "がってん！まかせるダス゛ロックマン！！[NewLine][WaitFrames][14]ロールちゃんも あぶないから[NewLine]しっかり つかまっているダス[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][06]"
+  },
+  "20": {
+    "dest_rva": "0xe26d00",
+    "header_bytes": [2, 3, 3, 512, 16, 33, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][03][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "こわいわ[SetTypeSpeed][0A]...[SetTypeSpeed][03]ロック[SetTypeSpeed][0A]...[SetTypeSpeed][03][NewLine]また゛ワイリーが[NewLine]わるいことを しようとしているの？[AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][06]"
+  },
+  "21": {
+    "dest_rva": "0xe26d18",
+    "header_bytes": [2, 3, 3, 512, 16, 23, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][03][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "だいじょうぶ！！[NewLine][WaitFrames][0A]ぼくに まかせて[DrawClosingMark][NewLine][WaitFrames][14][PacingTick][04]それに゛ライトはかせが もどったら[NewLine]ラッシュと ぼくを[NewLine]パワーアップしてくれるよ[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][06]"
+  },
+  "22": {
+    "dest_rva": "0xe26d30",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "ロックマン゛[NewLine]ここからさきは どうろが でこぼこで[NewLine]くるまでは すすめないダス[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][06]"
+  },
+  "23": {
+    "dest_rva": "0xe26d48",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "ふたりは あぶないから[NewLine]ここで まってて[AdvanceCursorLine][IncrementCounter][WaitFrames][1E][PacingTick][04]"
+  },
+  "24": {
+    "dest_rva": "0xe26d60",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "ロックマン゛わすれものダス[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][3C][PacingTick][02]"
+  },
+  "25": {
+    "dest_rva": "0xe26d78",
+    "header_bytes": [2, 10, 3, 512, 16, 23, 10, 70, 1, 32, 14, 8, 18, 50, 7, 200],
+    "header_decoded": "[SetTypeSpeed][0A][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][ConditionalTrigger?][32][WaitFrames][C8]",
+    "text": "............[AdvanceCursorLine][WaitFrames][3C][PacingTick][02]"
+  },
+  "26": {
+    "dest_rva": "0xe26d90",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "すまんダス[AdvanceCursorLine][IncrementCounter][WaitFrames][3C][PacingTick][02]"
+  },
+  "27": {
+    "dest_rva": "0xe26da8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "こっちのほうが゛かっこいいと[NewLine]おもったんダスが...[AdvanceCursorLine][IncrementCounter][WaitFrames][3C][PacingTick][04]"
+  },
+  "28": {
+    "dest_rva": "0xe26dc0",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 70, 1, 32, 14, 8, 11, 7, 1, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][46][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter][WaitFrames][01][IncrementCounter]",
+    "text": "きをつけてね゛ロック...[AdvanceCursorLine][IncrementCounter][WaitFrames][3C][PacingTick][04][ConditionalTrigger?][14]"
+  },
+  "29": {
+    "dest_rva": "0xe26dd8",
+    "header_bytes": [2, 2, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ブルースシールドを てにいれた！！[NewLine][NewLine][AdvanceCursorLine][WaitFrames][3C][PacingTick][06][IncrementCounter]"
+  },
+  "30": {
+    "dest_rva": "0xe26df0",
+    "header_bytes": [2, 6, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]またあったな・・・[NewLine][WaitFrames][1E]ワイリーは おまえを おそれているが゛[NewLine]おまえなど オレひとりで じゅうぶんだ！[AdvanceCursorLine][WaitFrames][3C][PacingTick][06][SetTypeSpeed][02][NewLine][AdvanceCursorLine]かくごしな゛ [WaitFrames][1E][SetTypeSpeed][01]ロックマン！！[WaitFrames][3C][PacingTick][08]"
+  },
+  "31": {
+    "dest_rva": "0xe26e08",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][NewLine]くそっ！[NewLine]きょうのところは ひきあげだ！！[AdvanceCursorLine][WaitFrames][B4][PacingTick][08]"
+  },
+  "32": {
+    "dest_rva": "0xe26e20",
+    "header_bytes": [2, 3, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][03][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]まっていたぜ゛[WaitFrames][14]ロックマン！[NewLine][WaitFrames][28]さっきは おまえを あまくみていたが゛[NewLine]こんどは ぜんりょくで[SetTypeSpeed][0C]・・・[WaitFrames][14][SetTypeSpeed][02]たおす！！[NewLine][WaitFrames][5A][PacingTick][06][NewLine][SetTypeSpeed][02]こい！ [WaitFrames][14]ゴスペル！！[WaitFrames][3C][PacingTick][06]"
+  },
+  "33": {
+    "dest_rva": "0xe26e38",
+    "header_bytes": [2, 6, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]なぜだ・・・・[NewLine][WaitFrames][3C]なぜ゛[WaitFrames][14]おれは゛[WaitFrames][14]ロックマンに[NewLine][WaitFrames][14]かてない・・・・[NewLine][WaitFrames][78][WaitFrames][B4][PacingTick][08]"
+  },
+  "34": {
+    "dest_rva": "0xe26e50",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]ビッグエディへ よーこそ！[NewLine]おいらが ライトはかせの いちばんでし[NewLine]スーパーロボット ライトットダス[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]でも・・・じつは゛おいらの あたまには[NewLine]ネジが いっぽん たりないダス[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][04]よかったら たたかっている あいだに[NewLine]おいらの あたまに ぴったりの ネジを[NewLine]さがして ほしいダス[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]もし ネジが あたまに あわなくても[NewLine]あつめてくれた ネジは アイテムと[NewLine]こうかんするダス[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]では゛ほしいアイテムを えらぶダス！！[WaitFrames][B4][PacingTick][06][IncrementCounter]"
+  },
+  "35": {
+    "dest_rva": "0xe26e68",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]いらっしゃいダス゛ロックマン[DrawClosingMark][NewLine]また きてくれて おいら とても[NewLine]うれしいヨ[DrawClosingMark][AdvanceCursorLine][RepeatBlankTile][09][WaitForConfirm][AdvanceCursorLine][PacingTick][06]では゛ほしいアイテムを えらぶダス！！[WaitFrames][B4][PacingTick][06][IncrementCounter]"
+  },
+  "36": {
+    "dest_rva": "0xe26e80",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは 1UPダス！[NewLine]ロックマンの のこり にんずうが[NewLine]ひとり ふえるダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "37": {
+    "dest_rva": "0xe26e98",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは Eかんダス！！[NewLine]しようすると たいりょくが[NewLine]ぜんぶ かいふくするダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "38": {
+    "dest_rva": "0xe26eb0",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは Wかんダス！！[NewLine]しようすると ぶきエネルギーが[NewLine]ぜんぶ かいふくするダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "39": {
+    "dest_rva": "0xe26ec8",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは Sかんダス！！ しようすると[NewLine]たいりょくも ぶきエネルギーも[NewLine]ぜんぶ かいふくするダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "40": {
+    "dest_rva": "0xe26ee0",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは ビートきゅうしゅつ きのう[NewLine]アイテムダス！！[NewLine][WaitFrames][78][PacingTick][04][ResetToMarginSameLine][AdvanceCursorLine]もし あなに おちたとき[NewLine]ビートが とんできて たすけにくるダス[DrawClosingMark][NewLine]ビートが いないと つかえないダス[DrawClosingMark][NewLine]"
+  },
+  "41": {
+    "dest_rva": "0xe26ef8",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは エネルギーバランサー ダス！！[NewLine]ぶきエネルギーかいふくアイテムを[NewLine]とるダス゛[AdvanceCursorLine][WaitFrames][78][PacingTick][06][ResetToMarginSameLine][AdvanceCursorLine]すると エネルギーが すくないぶきから [NewLine]じゅんばんに かいふくしていくダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "42": {
+    "dest_rva": "0xe26f10",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは ハイパーロケットバスター ダス[DrawClosingMark][NewLine]ロケットバスターが とおくに[NewLine]とぶように なるダス[DrawClosingMark][NewLine]"
+  },
+  "43": {
+    "dest_rva": "0xe26f28",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは ラッシュJET ダス[DrawClosingMark][NewLine]ラッシュが へんけいして[NewLine]そらを とべるように なるダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "44": {
+    "dest_rva": "0xe26f40",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは サーチラッシュ ダス[DrawClosingMark][NewLine]これで ラッシュが かくしつうろを[NewLine]みつける ことが できるようになるダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "45": {
+    "dest_rva": "0xe26f58",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "これは EXITアイテムダスよ[DrawClosingMark]つかうと[NewLine]ステージから だっしゆつできるダスが゛[NewLine]ボスを たおさないと きのうしないダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "46": {
+    "dest_rva": "0xe26f70",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "ざんねんダス！[NewLine]ネジが たりないダス！！[NewLine][AdvanceCursorLine]"
+  },
+  "47": {
+    "dest_rva": "0xe26f88",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "ロックマン゛よくばりダス！[NewLine]この アイテムは[NewLine]これいじょう もてないダス[DrawClosingMark][AdvanceCursorLine]"
+  },
+  "48": {
+    "dest_rva": "0xe26fa0",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "がんばるダス ロックマン！！[NewLine][NewLine][AdvanceCursorLine]"
+  },
+  "49": {
+    "dest_rva": "0xe26fb8",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 14, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]",
+    "text": "ちょっと゛まつダス[DrawClosingMark][NewLine][NewLine][AdvanceCursorLine][WaitFrames][3C]"
+  },
+  "50": {
+    "dest_rva": "0xe26fd0",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "つぎは なんに するダスか？[WaitFrames][78]"
+  },
+  "51": {
+    "dest_rva": "0xe26fe8",
+    "header_bytes": [],
+    "header_decoded": "",
+    "text": ""
+  },
+  "52": {
+    "dest_rva": "0xe27000",
+    "header_bytes": [19, 2, 2, 3, 512, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][02][SetInitialTypeSpeed?][0200][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "がんばるダス ロックマン！！[NewLine][WaitFrames][78]"
+  },
+  "53": {
+    "dest_rva": "0xe27018",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]どうしたダスか ロックマン[DrawClosingMark][NewLine][NewLine][AdvanceCursorLine][WaitFrames][3C][PacingTick][06]"
+  },
+  "54": {
+    "dest_rva": "0xe27030",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]こ・・・これダス！！[NewLine]これこそ おいらの あたまに[NewLine]ぴったりの ネジ ダス[DrawClosingMark][NewLine][WaitFrames][3C][PacingTick][06]ロックマン！さすがダス！！すごいダス！！[NewLine]これで おいらも ほんとうの[NewLine]じつりょくを はっき できるダス！！[NewLine][WaitFrames][3C][PacingTick][06]"
+  },
+  "55": {
+    "dest_rva": "0xe27048",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]やったダス！！[NewLine]あたらしい アイテムが できたダス！！[NewLine]とっても やくにたつ すぐれものダス！！[NewLine][WaitFrames][3C][PacingTick][06]それに゛いままでの はんぶんの ネジで[NewLine]アイテムを つくれるようになったダス！！[NewLine][NewLine][WaitFrames][3C][PacingTick][06]では ほしい アイテムを えらぶダス！！[NewLine][NewLine][NewLine][WaitFrames][3C][PacingTick][06]"
+  },
+  "56": {
+    "dest_rva": "0xe27060",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "このアイテムは どこかにつかまっている[NewLine]ビートを たすけないと [NewLine]かっても いみがないダス[DrawClosingMark][NewLine]"
+  },
+  "57": {
+    "dest_rva": "0xe27078",
+    "header_bytes": [19, 2, 4, 3, 512, 16, 32, 10, 102, 1, 32, 15, 8],
+    "header_decoded": "[ClearIconList?][SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][66][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "このアイテムの かいはつには゛[NewLine]スーパーロックマンの データがいるダス[DrawClosingMark][NewLine]R・U・S・Hプレートをあつめるダス[DrawClosingMark][NewLine]"
+  },
+  "58": {
+    "dest_rva": "0xe27090",
+    "header_bytes": [],
+    "header_decoded": "",
+    "text": ""
+  },
+  "59": {
+    "dest_rva": "0xe270a8",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "フリーズマン[AdvanceCursorLine]  <DWNo.049>[NewLine][AdvanceCursorLine]SHIGEAKI[AdvanceCursorLine]  SAKAMOTO[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "60": {
+    "dest_rva": "0xe270c0",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "ジャンクマン[AdvanceCursorLine]  <DWNo.050>[NewLine][AdvanceCursorLine]JUN AKIBA[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "61": {
+    "dest_rva": "0xe270d8",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "ターボマン[AdvanceCursorLine]  <DWNo.056>[NewLine][AdvanceCursorLine]TAKASHI KINO[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "62": {
+    "dest_rva": "0xe270f0",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "クラウドマン[AdvanceCursorLine]  <DWNo.052>[NewLine][AdvanceCursorLine]ISAO[AdvanceCursorLine]  NAKAGIRI[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "63": {
+    "dest_rva": "0xe27108",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "スプリングマン[AdvanceCursorLine]  <DWNo.053>[NewLine][AdvanceCursorLine]AKIRA ITO[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "64": {
+    "dest_rva": "0xe27120",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "スラッシュマン[AdvanceCursorLine]  <DWNo.054>[NewLine][AdvanceCursorLine]YOICHI AMANO[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "65": {
+    "dest_rva": "0xe27138",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "シエードマン[AdvanceCursorLine]  <DWNo.055>[NewLine][AdvanceCursorLine]TETSUYA[AdvanceCursorLine]  WATADA[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "66": {
+    "dest_rva": "0xe27150",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 3, 9, 1283, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][03][TabToColumn][0503][AdvanceCursorLine]",
+    "text": "バーストマン[AdvanceCursorLine]   <DWNo.051>[NewLine][AdvanceCursorLine]KEISHI[AdvanceCursorLine]  TSUCHIYA[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "67": {
+    "dest_rva": "0xe27168",
+    "header_bytes": [2, 0, 3, 512, 1, 36, 10, 16, 9, 1296, 8],
+    "header_decoded": "[SetTypeSpeed][00][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0510][AdvanceCursorLine]",
+    "text": "フォルテ[NewLine][AdvanceCursorLine]ゴスペル[PacingTick][20][WaitFrames][B4][PacingTick][20]"
+  },
+  "68": {
+    "dest_rva": "0xe27180",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8, 256, 0, 8, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]ROCK MAN 7[NewLine]",
+    "text": "しゅくめいの たいけつ[NewLine][PacingTick][20][WaitFrames][78][TabToColumn][0550][AdvanceCursorLine]PRODUCER[NewLine][AdvanceCursorLine]PROFESSOR F[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "69": {
+    "dest_rva": "0xe27198",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "PLANNER[PacingTick][20][WaitFrames][78][TabToColumn][0530][AdvanceCursorLine]HISAYOSHI[NewLine]R-CHU RYO[NewLine]CARDON[NewLine]MONJI[NewLine]P-TARO[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "70": {
+    "dest_rva": "0xe271b0",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "OBJECT[AdvanceCursorLine]DESIGNER[NewLine][PacingTick][20][WaitFrames][78][TabToColumn][04D0][AdvanceCursorLine]INAFKING[NewLine]TOSHI-CHANG[NewLine]H.K[NewLine]IKKI[NewLine]X-MAN[NewLine]OKON[NewLine]MA2[NewLine]BLACK[PacingTick][20][WaitFrames][78][TabToColumn][04D0][AdvanceCursorLine]NOBU[NewLine]R.Y[NewLine]MIZU[NewLine]841 NAGGER[NewLine]NOTTSU MAN[NewLine]MONKEY[NewLine]MAFU[NewLine]KAJI-YAN[PacingTick][20][WaitFrames][78][TabToColumn][0550][AdvanceCursorLine]2m50cm MAN[NewLine]TATSUNOKO[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "71": {
+    "dest_rva": "0xe271c8",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "SCROLL[AdvanceCursorLine]DESIGNER[NewLine][PacingTick][20][WaitFrames][78][TabToColumn][04F0][AdvanceCursorLine]M.PROST[NewLine]LOANS-R[NewLine]NATSU[NewLine]YAS[NewLine]SHIMO CHAN[NewLine]IMUYAM[PacingTick][20][WaitFrames][78][TabToColumn][04F0][AdvanceCursorLine]NOR[NewLine]ROMAN Y[NewLine]OKIRAN[NewLine]JUN-LI[NewLine]COSMO[NewLine]MINAKO[PacingTick][20][WaitFrames][78][TabToColumn][04F0][AdvanceCursorLine]T.A[NewLine]SHIZU[NewLine]HASHI[NewLine]ZIZI[NewLine]SHIGE-CHAN[NewLine]MOOTA[NewLine]G-JYAN[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "72": {
+    "dest_rva": "0xe271e0",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "SPECIAL[AdvanceCursorLine]DESIGNER[AdvanceCursorLine][PacingTick][20][WaitFrames][78][TabToColumn][0470][AdvanceCursorLine]HITOMI[AdvanceCursorLine]   YOSHIMASA[NewLine]HIROAKI[AdvanceCursorLine]SUGAWARA[NewLine]TOMOKO[AdvanceCursorLine]  TANABE[NewLine]MASATOSHI[AdvanceCursorLine]YAMAZAKI[NewLine]MADOKA AYABE[NewLine]MAYUMI ITO[NewLine]MIWA KIKUCHI[NewLine]MASAOMI[AdvanceCursorLine] SHIMONO[PacingTick][20][WaitFrames][78][TabToColumn][0430][AdvanceCursorLine]MAKOTO[AdvanceCursorLine]OHKAWARA[NewLine]KYOSUKE[AdvanceCursorLine]  HARADA[NewLine]NORIYOSHI[AdvanceCursorLine]   TAKAHASHI[NewLine]KUNIHIRO[AdvanceCursorLine]  KANEDA[NewLine]HIROYOSHI[AdvanceCursorLine]   NAKANISHI[NewLine]KENTA[AdvanceCursorLine] YATSUDA[NewLine]DAISUKE[AdvanceCursorLine]   HANAI[NewLine]KATSUYA[AdvanceCursorLine]   ONOSE[PacingTick][20][WaitFrames][78][TabToColumn][0470][AdvanceCursorLine]SUSUMU[AdvanceCursorLine]   MATSUNAGA[NewLine]SATOKO NOGI[NewLine]HIROFUMI[AdvanceCursorLine]YAMAUCHI[NewLine]HITOSHI[AdvanceCursorLine]TAKEHANA[NewLine]MIE IIDA[NewLine]TSUTOMU[AdvanceCursorLine]   NAGAI[NewLine]YUKA TAKEDA[NewLine]KENJI ITO[PacingTick][20][WaitFrames][78][TabToColumn][0470][AdvanceCursorLine]MAIKO MIYAJI[NewLine]SAORI[AdvanceCursorLine] TSUBAKI[NewLine]YUSUKE[AdvanceCursorLine]WATANABE[NewLine]HIDETO[AdvanceCursorLine]   KISHIMOTO[NewLine]HARUO KUBO[NewLine]AI NADATANI[NewLine]SAYO OHSAWA[NewLine]AKIKO IINUMA[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "73": {
+    "dest_rva": "0xe271f8",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "PROGRAMMER[AdvanceCursorLine][PacingTick][20][WaitFrames][78][TabToColumn][04F0][AdvanceCursorLine]SABORI[NewLine]IKUTHAN[NewLine]TSUCCHIE[NewLine]SAKA[NewLine]TOSHI[NewLine]NAO[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "74": {
+    "dest_rva": "0xe27210",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "SOUND[AdvanceCursorLine]   COMPOSER[AdvanceCursorLine][PacingTick][20][WaitFrames][78][TabToColumn][0490][AdvanceCursorLine]T.\"ANIE\".N[NewLine]YUK[NewLine]KRSK[NewLine]V-TOMOZOH[NewLine]KAN[NewLine]APPLE Z[NewLine]MORE RICH[NewLine]NARINARI[NewLine]IPPO[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "75": {
+    "dest_rva": "0xe27228",
+    "header_bytes": [2, 1, 3, 512, 1, 36, 10, 16, 9, 1360, 8],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetSpeaker?][24][SetLeftMargin][10][TabToColumn][0550][AdvanceCursorLine]",
+    "text": "SPECIAL[AdvanceCursorLine] THANKS[AdvanceCursorLine][PacingTick][20][WaitFrames][78][TabToColumn][0510][AdvanceCursorLine]HELPER-F[NewLine]HELPER-M[NewLine]ASTRO KOKIZO[NewLine]TSUGEZO[PacingTick][20][WaitFrames][78][TabToColumn][0490][AdvanceCursorLine]MANASHI[NewLine]UKABIN[NewLine]MEEKAN[NewLine]TAKEPONG[NewLine]QCHAN[NewLine]TOYOKICHI[NewLine]MAESHI[NewLine]MIYAU[NewLine]882[PacingTick][20][WaitFrames][78][PacingTick][20]"
+  },
+  "76": {
+    "dest_rva": "0xe27240",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]FREEZE[NewLine][RepeatBlankTile][04]CRACKER[WaitFrames][F0]"
+  },
+  "77": {
+    "dest_rva": "0xe27258",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]THUNDER[NewLine][RepeatBlankTile][04]STRIKE[WaitFrames][F0]"
+  },
+  "78": {
+    "dest_rva": "0xe27270",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]JUNK[NewLine][RepeatBlankTile][04]SHIELD[WaitFrames][F0]"
+  },
+  "79": {
+    "dest_rva": "0xe27288",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]BURNING[NewLine][RepeatBlankTile][04]WHEEL[WaitFrames][F0]"
+  },
+  "80": {
+    "dest_rva": "0xe272a0",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]SLASH[NewLine][RepeatBlankTile][04]CLAW[WaitFrames][F0]"
+  },
+  "81": {
+    "dest_rva": "0xe272b8",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]CRUSH[NewLine][RepeatBlankTile][04]NOISE[WaitFrames][F0]"
+  },
+  "82": {
+    "dest_rva": "0xe272d0",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]DANGER[NewLine][RepeatBlankTile][04]WRAP[WaitFrames][F0]"
+  },
+  "83": {
+    "dest_rva": "0xe272e8",
+    "header_bytes": [2, 6, 16, 32, 10, 225, 1, 36, 14, 8],
+    "header_decoded": "[SetTypeSpeed][06][SetTypeSound?][20][SetLeftMargin][E1][SetSpeaker?][24][ClearForceWait][AdvanceCursorLine]",
+    "text": "YOU GET[NewLine][AdvanceCursorLine][RepeatBlankTile][02]WILD[NewLine][RepeatBlankTile][04]COIL[WaitFrames][F0]"
+  },
+  "84": {
+    "dest_rva": "0xe27300",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]おお゛ロックマン もどってきたか[NewLine][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  },
+  "85": {
+    "dest_rva": "0xe27318",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]はい[DrawClosingMark]ところで ライトはかせ゛[NewLine]フォルテは いったい[NewLine]なにを しようとしてるんでしょうか？[NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "86": {
+    "dest_rva": "0xe27330",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ううむ゛こうどうを みるかぎりでは[NewLine]てきでは ないとおもうんじゃが・・・[NewLine][NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "87": {
+    "dest_rva": "0xe27348",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ForceWait][AdvanceCursorLine]ロックマン！[NewLine]たっ゛たいへんじゃ！！[NewLine][NewLine][WaitFrames][3C][PacingTick][06]また゛ワイリーのせんとうロボットが[NewLine]まちで あばれているんじゃ！[NewLine]ただちに げんばに むかってくれ！！[NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "88": {
+    "dest_rva": "0xe27360",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ラ゛ライトはかせ！！[NewLine]いったい゛これは・・・[NewLine][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  },
+  "89": {
+    "dest_rva": "0xe27378",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ロ・・・ロックマンか・・・[NewLine]フォ・・・フォルテが いきなり・・・[NewLine]しゅうりが おわると あばれだして・・・[NewLine][WaitFrames][78][PacingTick][06]ロックマン゛おまえと ラッシュの[NewLine]パワーアップ せっけいずを゛[NewLine]うばって いったのじゃ・・・[NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "90": {
+    "dest_rva": "0xe27390",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ま゛まさか・・・[NewLine]フォルテが？[NewLine]ということは・・・[NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "91": {
+    "dest_rva": "0xe273a8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 390, 1, 32, 14, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][0186][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]",
+    "text": "ロックマン゛Dr.ライト[DrawClosingMark][NewLine]ひさしぶりだな゛[NewLine]ちょうしのほうは どうかね[DrawClosingMark][NewLine][WaitFrames][B4][PacingTick][06]そのとおりだよ゛[NewLine]フォルテと ゴスペルは[NewLine]この わたしが つくったのだ[DrawClosingMark][NewLine][WaitFrames][B4][PacingTick][06]そして゛きさまの せいのうを[NewLine]たしかめるために゛[NewLine][NewLine][WaitFrames][3C][PacingTick][06]フォルテに ひとしばい うたせて゛[NewLine]けんきゅうじょに もぐりこませたのだが[NewLine]まんまと ひっかかったな[DrawClosingMark][NewLine][WaitFrames][B4][PacingTick][06]これから わしは このせっけいずで[NewLine]フォルテと ゴスペルを[NewLine]パワーアップさせる ところだ[NewLine][WaitFrames][B4][PacingTick][06]それでは゛またあおう[DrawClosingMark][NewLine]ロックマン！！[NewLine][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  },
+  "92": {
+    "dest_rva": "0xe273c0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ゆるさないぞ！！[NewLine]ワイリー！[NewLine][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  },
+  "93": {
+    "dest_rva": "0xe273d8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このワイルドコイルは゛[NewLine]ぜんごに バネを はっしゃするんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "94": {
+    "dest_rva": "0xe273f0",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]あら゛バネ？[NewLine]はかせの ベッドの しゅうりに[NewLine]つかえるかしら？[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "95": {
+    "dest_rva": "0xe27408",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ムリだよ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "96": {
+    "dest_rva": "0xe27420",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このワイルドコイルは゛[NewLine]ぜんごに バネを はっしゃするんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "97": {
+    "dest_rva": "0xe27438",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]それに゛ためてから うつと゛[NewLine]はんどうで バネが よりたかく[NewLine]とぶようになるのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "98": {
+    "dest_rva": "0xe27450",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このバネを りょうあしに つければ[NewLine]ジャンプりょくが アップして[NewLine]スーパーライトットの かんせいダス！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "99": {
+    "dest_rva": "0xe27468",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]そんなこと゛ないって・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "100": {
+    "dest_rva": "0xe27480",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このワイルドコイルは゛[NewLine]ぜんごに バネを はっしゃするんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "101": {
+    "dest_rva": "0xe27498",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このバーニングホイールは゛[NewLine]ほのおの しゃりんを うちだすんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "102": {
+    "dest_rva": "0xe274b0",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]あらちょうどよかった[DrawClosingMark][NewLine]こんやの ごはんは バーベキューに[NewLine]しようと おもってたの！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "103": {
+    "dest_rva": "0xe274c8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ちょうどよかったといわれても・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "104": {
+    "dest_rva": "0xe274e0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]これで きょうの ふろたきは[NewLine]ロックマンの しごとダスね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "105": {
+    "dest_rva": "0xe274f8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]そうなのかなあ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "106": {
+    "dest_rva": "0xe27510",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このバーニングホイールは゛[NewLine]ほのおの しゃりんを うちだすんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "107": {
+    "dest_rva": "0xe27528",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]そうじゃ[DrawClosingMark]ほかにも いろんなものに[NewLine]ほのおを つけたり゛もやしたり[NewLine]できるかもしれんのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "108": {
+    "dest_rva": "0xe27540",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]このフリーズクラッカーは゛[NewLine]こおりのたまを゛うちだすんだよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "109": {
+    "dest_rva": "0xe27558",
+    "header_bytes": [2, 1, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][01][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]なヌ！[WaitFrames][3C]クラッカー！？[WaitFrames][3C][SetTypeSpeed][04]おいらクラッカーは[NewLine]だいこうぶつダスー！[WaitFrames][1E]おクレーおクレー！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "110": {
+    "dest_rva": "0xe27570",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]クラッカーといっても[NewLine]たべものじゃないって！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "111": {
+    "dest_rva": "0xe27588",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このフリーズクラッカーは゛[NewLine]こおりのたまをうちだすんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "112": {
+    "dest_rva": "0xe275a0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]そうじゃ！[WaitFrames][1E]しかも゛じめんにぶつけて[NewLine]つよいしょうげきを あたえると゛[NewLine]そこからぶんれつして とぶのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "113": {
+    "dest_rva": "0xe275b8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このフリーズクラッカーは゛[NewLine]こおりのたまを うちだすんだよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "114": {
+    "dest_rva": "0xe275d0",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]わあ きれい！[NewLine][WaitFrames][3C]これで ブローチが つくれないかしら？[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "115": {
+    "dest_rva": "0xe275e8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]きっと ロールちゃんに にあうと[NewLine]おもうよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "116": {
+    "dest_rva": "0xe27600",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ジャンクシールドは゛[NewLine]まわりの スクラップを[NewLine]あつめてうちだすんだよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "117": {
+    "dest_rva": "0xe27618",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]スクラップじゃなくて[NewLine]ネジを あつめてくれれば[NewLine]よかったダスね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "118": {
+    "dest_rva": "0xe27630",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]だいじょうぶ！[NewLine][WaitFrames][1E]ライトットのネジも[NewLine]ちゃんと あつめるよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "119": {
+    "dest_rva": "0xe27648",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ジャンクシールドは゛[NewLine]まわりの スクラップを[NewLine]あつめて うちだすんだよ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "120": {
+    "dest_rva": "0xe27660",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]そうじがたいへんだから[NewLine]いえでは つかわないでね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "121": {
+    "dest_rva": "0xe27678",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]はい[WaitFrames][1E][SetTypeSpeed][08]・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "122": {
+    "dest_rva": "0xe27690",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ジャンクシールドは゛[NewLine]たまが まわりを まわっているんで[NewLine]ぼうぎょに つかえますね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "123": {
+    "dest_rva": "0xe276a8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]しかし゛そのたまは たくさんの[NewLine]ダメージをうけると こわれてしまう[DrawClosingMark][NewLine]ちゅういするのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "124": {
+    "dest_rva": "0xe276c0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]デンジャーラップは゛[NewLine]ばくだんを あわにつつんで[NewLine]はっしゃするんだ[DrawClosingMark][NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "125": {
+    "dest_rva": "0xe276d8",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]あらちょうどよかった゛[NewLine]はかせの つくったガラクタが[NewLine]いっぱいあって こまっていたの[DrawClosingMark][NewLine][WaitFrames][3C][PacingTick][02]まとめて ばくはして ちょうだい[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "126": {
+    "dest_rva": "0xe276f0",
+    "header_bytes": [2, 6, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ロールちゃん[WaitFrames][1E][SetTypeSpeed][10]・・・[SetTypeSpeed][06][WaitFrames][1E]きびしいなあ[SetTypeSpeed][10][WaitFrames][1E]・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "127": {
+    "dest_rva": "0xe27708",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]デンジャーラップは゛[NewLine]ばくだんを あわにつつんで[NewLine]うちあげるんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "128": {
+    "dest_rva": "0xe27720",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]はなびダスか゛ドンときて゛パッとちる[DrawClosingMark][NewLine][SetTypeSpeed][08][WaitFrames][1E]はなやかダスなあ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "129": {
+    "dest_rva": "0xe27738",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ちょっと゛ちがうんだけど[SetTypeSpeed][10]・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "130": {
+    "dest_rva": "0xe27750",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]デンジャーラップは゛[NewLine]ばくだんを あわにつつんで[NewLine]はっしゃするんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "131": {
+    "dest_rva": "0xe27768",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]もしかして゛ばくだんいがいの ものも[NewLine]つつめるかも しれんのう[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "132": {
+    "dest_rva": "0xe27780",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このサンダーストライクは゛[NewLine]でんきのたまを うちだすんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "133": {
+    "dest_rva": "0xe27798",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ワー゛カミナリさまダスー！[NewLine]おヘソとられるダスー！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "134": {
+    "dest_rva": "0xe277b0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]おまえ゛いつのじだいの[NewLine]ロボットだよ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "135": {
+    "dest_rva": "0xe277c8",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]あらうれしい゛これで でんきだいが[NewLine]せつやくできるわ！[NewLine][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "136": {
+    "dest_rva": "0xe277e0",
+    "header_bytes": [2, 16, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][10][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]・・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "137": {
+    "dest_rva": "0xe277f8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このサンダーストライクは゛[NewLine]でんきのたまを うちだすんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "138": {
+    "dest_rva": "0xe27810",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]いろいろな きかいが[NewLine]でんきで うごくのじゃ[DrawClosingMark][NewLine]ためしてみると゛いいだろう[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "139": {
+    "dest_rva": "0xe27828",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このスラッシュクローは゛[NewLine]どんなものでも きることが できるんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "140": {
+    "dest_rva": "0xe27840",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]それじゃ゛このごろ おにわのきが[NewLine]のびすぎているから きっておいてね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "141": {
+    "dest_rva": "0xe27858",
+    "header_bytes": [2, 8, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][08][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ロールちゃんには かなわないなあ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "142": {
+    "dest_rva": "0xe27870",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このスラッシュクローは゛[NewLine]どんなものでも きれるんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "143": {
+    "dest_rva": "0xe27888",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]そうじゃ！[NewLine][WaitFrames][1E]しゃていきょりが みじかいぶん[NewLine]エネルギーは きょうりょくなのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "144": {
+    "dest_rva": "0xe278a0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]すごいダスー[NewLine][WaitFrames][1E]スXラXダーひXゅう みたいダスー！[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "145": {
+    "dest_rva": "0xe278b8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]それは いわない やくそくだろ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "146": {
+    "dest_rva": "0xe278d0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このぶきは クラッシュノイズといって゛[NewLine]きょうりょくな はかいおんぱで[NewLine]てきを やっつけることが できるんだ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "147": {
+    "dest_rva": "0xe278e8",
+    "header_bytes": [2, 4, 3, 512, 16, 33, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][21][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]あら゛それって ライトはかせの[NewLine]うたごえよりも すごいの？[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "148": {
+    "dest_rva": "0xe27900",
+    "header_bytes": [2, 8, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][08][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ロールちゃん・・・きびしいなあ・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "149": {
+    "dest_rva": "0xe27918",
+    "header_bytes": [2, 16, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][10][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]ZZZ・・・ダス゛Z・・ZZ・ダス・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "150": {
+    "dest_rva": "0xe27930",
+    "header_bytes": [2, 8, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][08][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]こっちのほうが はげしいや・・・[IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "151": {
+    "dest_rva": "0xe27948",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]このぶきは クラッシュノイズといって゛[NewLine]きょうりょくな はかいおんぱで[NewLine]てきを やっつけることが できるんですね[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "152": {
+    "dest_rva": "0xe27960",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][AdvanceCursorLine]さらにじゃ！はねかえってきた[NewLine]おんぱを じぶんのみに うけると[NewLine]ボディが きょうめいして[NewLine][WaitFrames][3C][PacingTick][04]さらに きょうりょくな[NewLine]はかいおんぱが うてるのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][78][PacingTick][06]"
+  },
+  "153": {
+    "dest_rva": "0xe27978",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][C6]",
+    "text": "[SetSpeaker?][20][ClearForceWait][AdvanceCursorLine]ワイリーが ロボットはくぶつかんを[NewLine]しゅうげきしている！[NewLine]ただちに むかうのじゃ！！[NewLine][IncrementCounter][WaitFrames][B4][PacingTick][06]"
+  },
+  "154": {
+    "dest_rva": "0xe27990",
+    "header_bytes": [2, 6, 3, 512, 16, 32, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[AdvanceCursorLine]ロックマンすまない[DrawClosingMark][NewLine][WaitFrames][14]もうしないから゛[WaitFrames][14]ゆるしておくれ！[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "155": {
+    "dest_rva": "0xe279a8",
+    "header_bytes": [2, 6, 3, 512, 16, 23, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[NewLine][AdvanceCursorLine]もう だまされないぞ[WaitFrames][14] Dr.ワイリー！！[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "156": {
+    "dest_rva": "0xe279c0",
+    "header_bytes": [2, 6, 3, 512, 16, 32, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[AdvanceCursorLine]うつのか？ [WaitFrames][28]ワシをうつのか？[NewLine]このワシを！！ [WaitFrames][14]ロボットの おまえが[NewLine]にんげんの このワシを！！[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "157": {
+    "dest_rva": "0xe279d8",
+    "header_bytes": [2, 20, 3, 512, 16, 23, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][14][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[NewLine][AdvanceCursorLine]・・・・・・[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "158": {
+    "dest_rva": "0xe279f0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[AdvanceCursorLine]ロックマン゛[WaitFrames][14]Dr.ワイリーには[NewLine][WaitFrames][0A]ゆびいっぽん ふれさせないゼ！！[NewLine][NewLine][WaitFrames][78][PacingTick][06]こんかいは[WaitFrames][0A]おれたちの まけだ・・・[NewLine][WaitFrames][28]しかし！！[NewLine][WaitFrames][14]オレは さらに つよくなってやる！！[NewLine][WaitFrames][78][PacingTick][06]"
+  },
+  "159": {
+    "dest_rva": "0xe27a08",
+    "header_bytes": [2, 6, 3, 512, 16, 32, 1, 32, 10, 198],
+    "header_decoded": "[SetTypeSpeed][06][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetSpeaker?][20][SetLeftMargin][C6]",
+    "text": "[NewLine]また゛あおうぜ！ ロックマン！！[NewLine]じゃあな！！[AdvanceCursorLine][WaitFrames][78][PacingTick][06]"
+  },
+  "160": {
+    "dest_rva": "0xe27a20",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 7, 60, 8, 256, 0],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][WaitFrames][3C][AdvanceCursorLine] DR.",
+    "text": "ワイリーの いくどにわたるせかいせいふく[NewLine]けいかくも ロックマンのかつやくにより"
+  },
+  "161": {
+    "dest_rva": "0xe27a38",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 7, 60, 8, 256, 0],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][WaitFrames][3C][AdvanceCursorLine] DR.",
+    "text": "ワイリーのたいほ゛というかたちで そのまくを[NewLine]とじた[DrawClosingMark]"
+  },
+  "162": {
+    "dest_rva": "0xe27a50",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 19, 7, 20, 8, 32],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][ClearIconList?][WaitFrames][14][AdvanceCursorLine] ",
+    "text": "そして゛ふたたび せかいに へいわなひびが[NewLine]もどったように おもわれた[DrawClosingMark][WaitFrames][3C]"
+  },
+  "163": {
+    "dest_rva": "0xe27a68",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 7, 20, 8, 32],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][WaitFrames][14][AdvanceCursorLine] ",
+    "text": "へいさされていた DR.ワイリーの ひみつ[NewLine]けんきゅうしょが ひそかに かつどうを かいしし゛"
+  },
+  "164": {
+    "dest_rva": "0xe27a80",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 7, 20, 8, 256, 0],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][WaitFrames][14][AdvanceCursorLine] DR.",
+    "text": "ワイリーのみに なにかあったときに[NewLine]はつどうする プログラムは"
+  },
+  "165": {
+    "dest_rva": "0xe27a98",
+    "header_bytes": [2, 8, 1, 36, 10, 643, 14, 7, 20, 8, 256, 0],
+    "header_decoded": "[SetTypeSpeed][08][SetSpeaker?][24][SetLeftMargin][0283][ClearForceWait][WaitFrames][14][AdvanceCursorLine] 4",
+    "text": "たいの せんとうロボットたちを[NewLine]めざめさせてしまった..."
+  },
+  "166": {
+    "dest_rva": "0xe27ab0",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 134, 1, 32, 14, 8, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][86][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter]",
+    "text": "は゛はかせ！[WaitFrames][1E]だいじょうぶですか？[WaitFrames][3C][NewLine]すぐに ロールちゃんを つれてきます[DrawClosingMark][AdvanceCursorLine][IncrementCounter][WaitFrames][3C][PacingTick][04]"
+  },
+  "167": {
+    "dest_rva": "0xe27ac8",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 14, 8, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter]",
+    "text": "いかん゛[WaitFrames][1E]いそぐのじゃ！！[NewLine][WaitFrames][1E]ワイリーの ロボットが[NewLine]まちを おそっている[DrawClosingMark][NewLine][WaitFrames][5A][PacingTick][06]このままでは゛ワイリーが[NewLine]けいむしょから だつごくするかもしれん[DrawClosingMark][NewLine][WaitFrames][3C]あっ...[WaitFrames][1E][IncrementCounter][PacingTick][06]"
+  },
+  "168": {
+    "dest_rva": "0xe27ae0",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 14, 8, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter]",
+    "text": "わしは だいじょうぶじゃから゛[NewLine]ロックマン゛[WaitFrames][1E]ラッシュを つれて[NewLine]ワイリーのUFOを おうのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  },
+  "169": {
+    "dest_rva": "0xe27af8",
+    "header_bytes": [2, 4, 3, 512, 16, 23, 10, 134, 1, 32, 15, 8],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][17][SetLeftMargin][86][SetSpeaker?][20][ForceWait][AdvanceCursorLine]",
+    "text": "えっ゛ぼくをしってるの？[NewLine]きみは だれ・・・[NewLine][NewLine][WaitFrames][78][PacingTick][06]"
+  },
+  "170": {
+    "dest_rva": "0xe27b10",
+    "header_bytes": [2, 4, 3, 512, 16, 32, 10, 134, 1, 32, 14, 8, 11],
+    "header_decoded": "[SetTypeSpeed][04][SetInitialTypeSpeed?][0200][SetTypeSound?][20][SetLeftMargin][86][SetSpeaker?][20][ClearForceWait][AdvanceCursorLine][IncrementCounter]",
+    "text": "わしは だいじょうぶじゃから゛[NewLine]ロックマン゛[WaitFrames][1E]ラッシュを つれて[NewLine]ワイリーのUFOを おうのじゃ[DrawClosingMark][IncrementCounter][WaitFrames][3C][PacingTick][06]"
+  }
+}
