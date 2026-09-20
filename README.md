@@ -35,8 +35,6 @@ with the game build it was made for, and a game update can break it.
 
 ## Installing
 
-**TODO: fill in for your setup.** Suggested outline:
-
 1. Install an ASI loader in the game folder (follow the loader's own
    instructions).
 2. Copy `MM7Loc.asi` (the built `MM7Loc.dll`, renamed) to a "scripts" folder where the MMLC2.exe is
@@ -107,10 +105,6 @@ plus extra output that you can read with
 - [`Docs/JAPANESE_CONTROL_CODES.md`](Docs/JAPANESE_CONTROL_CODES.md) — every control code
 - [`Docs/TEXT_FINDING_GUIDE.md`](Docs/TEXT_FINDING_GUIDE.md) — how to find text in the game
 - [`Docs/BOSSNAME_Font_Investigation.md`](Docs/BOSSNAME_Font_Investigation.md) — the boss-name, flavor-text and intro font system
-
-## Credits
-
-**TODO: your name, and the teammates and community members who helped.**
 
 ## License
 
