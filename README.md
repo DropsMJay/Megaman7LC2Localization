@@ -1,4 +1,4 @@
-# MM7Loc
+# Megaman 7 Legacy Collection Text Patcher
 
 A text-patching mod for **Mega Man 7** as shipped in *Mega Man Legacy Collection 2*
 (`MMLC2.exe`). It is a small DLL, built on [MinHook](https://github.com/TsudaKageyu/minhook),
