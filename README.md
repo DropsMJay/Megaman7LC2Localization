@@ -39,8 +39,7 @@ with the game build it was made for, and a game update can break it.
 
 1. Install an ASI loader in the game folder (follow the loader's own
    instructions).
-2. Copy `MM7Loc.asi` (the built `MM7Loc.dll`, renamed) to **TODO: the folder your
-   loader reads plugins from**.
+2. Copy `MM7Loc.asi` (the built `MM7Loc.dll`, renamed) to a "scripts" folder where the MMLC2.exe is
 3. Start the game.
 
 To uninstall, delete `MM7Loc.asi`.
@@ -50,8 +49,7 @@ To uninstall, delete `MM7Loc.asi`.
 The four JSON files are the scripts, and they are what you edit to translate.
 Because they are embedded, **rebuild the DLL after any change**.
 
-- **`GameTextUS.json`** — `"index": {"array_rva": "...", "text": "..."}`. Each line
-  of an entry is separated by `[NewLine]`. `array_rva` is informational only.
+- **`GameTextUS.json`** — edit only the `text` field of an entry.
 - **`GameTextJP.json`** — edit only the `text` field of an entry. `header_bytes`
   is what actually gets patched and is preserved byte for byte;
   `header_decoded` is a readable copy for humans and is ignored by the mod.
