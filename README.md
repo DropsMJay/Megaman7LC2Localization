@@ -28,7 +28,7 @@ mod does not read any external file at runtime.
 ## Requirements
 
 - *Mega Man Legacy Collection 2* (Steam). version / Steam build you tested.**
-- An ASI loader, because the built DLL is used as an `.asi` plugin.
+- An ASI loader, because the built DLL is used as an `.asi` plugin. (d3d11.dll recommended)
 
 **Important:** the mod hooks fixed addresses inside `MMLC2.exe`. It only works
 with the game build it was made for, and a game update can break it.
