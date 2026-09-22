@@ -2,7 +2,7 @@
 
 A text-patching mod for **Mega Man 7** as shipped in *Mega Man Legacy Collection 2*
 (`MMLC2.exe`). It is a small DLL, built on [MinHook](https://github.com/TsudaKageyu/minhook),
-that replaces the game's text in memory at runtime. Nothing on disk is modified.
+that replaces the game's text in memory at runtime. Nothing on disk is modified. Mostly made with Claude.ai
 
 The original US release has scenes the localization team never got around to
 translating; those spots reuse generic placeholder text (for example "YOU GET")
